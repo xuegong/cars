@@ -12,8 +12,16 @@ public class CarEntity {
     private Integer id;
     private String name;
     public void setId(Integer id2) {
+        this.id = id2;
     }
-
-    // Standard getters, setters, constructors, equals, and hashCode
+    public Integer getId() {
+        return this.id;
+    }
+    public void setName(String name) {
+        this.name = name;
+    }
+    public String getName() {
+        return name;
+    }
 }
 
