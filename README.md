@@ -1,3 +1,4 @@
+## This is spring boot starter demo project for docker container. 
 ### scripts are in src/scripts folder
 
 ### Build and run:
